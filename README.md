@@ -102,8 +102,6 @@ Completing Week 3 Project Modules 1 and 2 provided practical insight into the me
 
 ## 📸 8. Evidence Collected
 
-> *Tip: Upload your screenshot files into an `evidence/` folder in your GitHub repository to link them directly below.*
-
 ### 8.1 Project Module 1 (`W3-PM1`) — John the Ripper & Johnny GUI
 
 <img width="1919" height="1079" alt="JTR Unlock 1" src="https://github.com/user-attachments/assets/4be7b992-3cd9-444e-ba00-7d1c6b5501cd" />
