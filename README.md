@@ -108,21 +108,22 @@ Completing Week 3 Project Modules 1 and 2 provided practical insight into the me
 
 <img width="1919" height="1079" alt="JTR Unlock 1" src="https://github.com/user-attachments/assets/4be7b992-3cd9-444e-ba00-7d1c6b5501cd" />
 
-* **Figure 1:** Unlocked `My Locked PDF1.pdf` revealing Flag 1 (`evidence/jtr-unlock-1.jpg`)
+* **Figure 1:** Unlocked My Locked PDF1.pdf revealing Flag 1 (n w{cybersecurity_flag_captured_2608} ) 
 
 <img width="1919" height="1079" alt="JTR Unlock 2" src="https://github.com/user-attachments/assets/925d4449-a7f3-4a6d-82ce-92e92d116096" />
 
-* **Figure 2:** Unlocked `My Locked PDF2.pdf` revealing Flag 2 (`evidence/jtr-unlock-2.jpg`)
+* **Figure 2:** Unlocked My Locked PDF2.pdf revealing Flag 2 (nw{networkwalks_persistence_jtr_270521})
 
 <img width="1919" height="1079" alt="JTR Unlock 3" src="https://github.com/user-attachments/assets/f5774531-8f9b-4c2b-a6c5-cc6efdac7b84" />
 
-* **Figure 3:** Johnny GUI displaying recovered password `1qaz2wsx` alongside unlocked `My Locked PDF3.pdf` revealing Flag 3 (`evidence/jtr-unlock-3.jpg`)
+* **Figure 3:**  Johnny GUI displaying recovered password 1qaz2wsx (100% cracked) alongside unlocked My Locked PDF3.pdf revealing Flag 3 (nw{networkwalks_flag_260821_1}) 
 
 ### 8.2 Project Module 2 (`W3-PM2`) — Networkwalks Tools
 
 <img width="1919" height="1079" alt="NW tool pass crack" src="https://github.com/user-attachments/assets/5914461e-1ac3-4979-ae92-59e43b620e78" />
 
-* **Figure 4:** Unlocked `My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf` inside Kali Linux revealing Flag 1 (`evidence/nw-tool-pass-crack.jpg`)
+* **Figure 4 (W3-PM2):** Unlocked My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf inside Kali Linux revealing 
+Flag 1 (nw{networkwalks_flag1_jtr_270521_1}) 
 
 ---
 
