@@ -87,7 +87,7 @@ For Project Module 2, the password recovery workflow was executed inside **Kali 
 
 ## 🛡️ 6. Security Recommendations
 
-1. **Enforce High-Entropy Passphrases:** Replace single dictionary words (`password1`) and keyboard walks (`1qaz2wsx`) with random passphrases of at least 14–16 characters mixing uppercase, lowercase, numbers, and symbols.
+1. **Enforce High-Entropy Passphrases:** Replace single dictionary words (`password1`) and keyboard walks (`1qaz2wsx`) and predictable words like (`good-luck`) with random passphrases of at least 14–16 characters mixing uppercase, lowercase, numbers, and symbols.
 2. **Use Modern Document Encryption Standards:** Save sensitive PDFs using Acrobat X or later (**AES-256 / Revision 6**) rather than legacy 128-bit Revision 4 encryption to significantly increase key-derivation computational cost.
 3. **Avoid Password Reuse Across Files:** Ensure every sensitive archive or document uses a unique password so compromising one file does not expose related documents.
 4. **Implement Access Controls & DRM:** Store confidential documents inside access-controlled repositories with multi-factor authentication (MFA) and audit logging rather than relying solely on file-level passwords.
